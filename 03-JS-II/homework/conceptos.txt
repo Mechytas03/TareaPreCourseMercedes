@@ -1,0 +1,4 @@
+`for` similiar a if, exresion condicional
+* `&&` and x 2 
+ `||`tambien
+  `!`no , falso, no es ifual a..

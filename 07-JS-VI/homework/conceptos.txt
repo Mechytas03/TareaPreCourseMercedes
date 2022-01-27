@@ -1,0 +1,2 @@
+* Funciones Callback
+para una funcion como argumento a otra funcion. se puede usar en cualquier momento. la convercion es usar cb como argumento para la variable que se usara. 

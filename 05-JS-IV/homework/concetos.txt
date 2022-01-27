@@ -1,0 +1,7 @@
+    * Objetos: 
+	* Propiedades: lo que pueden o no hacer los objetos
+	* Métodos: la forma con la que le decimos a los objeto
+	* Bucle `for…in` :es una simtesis ligereamente diferente, comienza igual pero en ()declaramos una variable
+	* Notación de puntos vs notación de corchetes:
+    cochetes como llama a un elemento en una matriz
+    con puntos para llamar al nombre del objeto 

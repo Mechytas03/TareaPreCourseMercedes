@@ -1,0 +1,1 @@
+Arrays: matrices/ arreglos. contenedores que sostienen colecciones de datos

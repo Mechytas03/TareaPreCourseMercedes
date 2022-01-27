@@ -1,0 +1,2 @@
+`prototype`: cada vez que creamos un numero  de objetos de clase con metodos, estamos recreando esos metodos en la memoria.
+* _Constructors_ (de Clases) para crear muchos objetos que comparten alguna de las mismas propiedades y metodos

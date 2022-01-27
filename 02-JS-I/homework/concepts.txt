@@ -1,0 +1,7 @@
+
+	* Variables: es una forma de guardar o almacenar el valor de algo
+	* Strings: bloques de texto
+	* Funciones (argumentos, `return`) return: devuelve
+                                        argumentos: los comportamientos
+	* Declaraciones `if`: sino....
+	* Valores booleanos (`true`, `false`) son codigos binarios, es decir si no es uno es otro, si o no, 0 o 1
