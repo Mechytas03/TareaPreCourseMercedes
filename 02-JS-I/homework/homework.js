@@ -64,16 +64,20 @@ if (x===y){
   return 'true'
 }
 else return 'false'
+}
 
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
+ 
   if (str1.length===str2.length){
     return 'true'
   }
 
 else return false 
+}
+
 function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
@@ -83,6 +87,7 @@ function menosQueNoventa(num) {
   }
 else return 'false'
 
+}
 
 function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
@@ -92,6 +97,7 @@ function mayorQueCincuenta(num) {
     return 'true'
   }
 else return 'false'
+}
 
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
@@ -99,7 +105,7 @@ function obtenerResto(x, y) {
   return x%y
 }
 
-function esPar(num) {
+function esPar(num)  {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
@@ -107,7 +113,7 @@ function esPar(num) {
     return 'true'
   }
 else return'false'
-function esImpar(num) {
+function esImpar(num) 
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
@@ -115,6 +121,7 @@ function esImpar(num) {
     return 'true'
   }
 else return 'false'
+}
 
 function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
@@ -172,7 +179,8 @@ function agregarSimboloExclamacion(str) {
   // Ejemplo: "hello world" pasaría a ser "hello world!"
   // Tu código:
 }
-returnstr + '!';
+returnstr + '!'
+
 function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
@@ -224,6 +232,7 @@ function esVocal(letra) {
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
   // Si no es vocal, tambien debe devolver "Dato incorrecto".
   //Escribe tu código aquí
+}
   if (letra,length > 1){
     return "dato incorrecto"
   }
@@ -232,3 +241,4 @@ if (letra ==="a" || letra === "e" || letra === "i" || letra ==="o" || letra === 
 }
 return "dato incorrecto" 
 
+}

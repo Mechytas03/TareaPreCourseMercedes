@@ -8,7 +8,7 @@ function obtenerMayor(x, y) {
 }
 if(x > y) {
   return x;
-}{
+}else {
 return y;
 }
 
@@ -33,10 +33,10 @@ function conection(status) {
   //De lo contrario, presumimos que el usuario está "Offline"
   //Devolver el estado de conexión de usuario en cada uno de los casos.
 }
-if(status === 1) {
+if (status===1) {
   return "Online";
 }
-else if(status === 2) {
+else if (status===2) {
   return "Away";
 }
 else {
@@ -87,6 +87,9 @@ function esDiezOCinco(numero) {
   // De lo contrario, devuelve "false"
   // Tu código:
 }
+return numero === 10 || numero ===5;
+
+
 function esDiezOCinco(numero) {
   // Devuelve "true" si "numero" es 10 o 5
   // De lo contrario, devuelve "false"
@@ -173,12 +176,9 @@ if( numero < 2) return false;
   }
   return true;
 
-function esVerdadero(valor){
-  //Escribe una función que reciba un valor booleano y retorne “Soy verdadero” 
-  //si su valor es true y “Soy falso” si su valor es false.
-  //Escribe tu código aquí
 
-}
+
+
 function esVerdadero(valor){
   //Escribe una función que reciba un valor booleano y retorne “Soy verdadero” 
   //si su valor es true y “Soy falso” si su valor es false.
@@ -188,12 +188,9 @@ function esVerdadero(valor){
   }
   return "Soy falso"
 }
-function tablaDelSeis(){
-  //Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
-  //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
-  //Escribe tu código aquí   
+
   
-}
+
 function tablaDelSeis(){
   //Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
   //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
@@ -218,11 +215,7 @@ function tieneTresDigitos(numero){
   return false
 }
 
-function doWhile(numero) {
-  //Implementar una función tal que vaya aumentando el valor recibido en 5 hasta un límite de 8 veces
-  //Retornar el valor final.
-  //Usar el bucle do ... while.
-}
+
 
 function doWhile(numero) {
   //Implementar una función tal que vaya aumentando el valor recibido en 5 hasta un límite de 8 veces

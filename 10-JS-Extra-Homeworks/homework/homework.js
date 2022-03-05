@@ -11,6 +11,10 @@ function deObjetoAmatriz(objeto){
     }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
   //Escribe tu código aquí
 }
+function deObjetoAmatriz(objeto)
+objeto(d=1, b=2, c=3)
+
+
 
 
 function numberOfCharacters(string) {
@@ -68,7 +72,10 @@ function buscoInterseccion(arreglo1, arreglo2){
   //Escribe tu código aquí  
 }
 
-
+function buscoInterseccion(arreglo1, arreglo2)
+const nuevoarreglo={
+  
+}
 
 // No modificar nada debajo de esta línea
 // --------------------------------

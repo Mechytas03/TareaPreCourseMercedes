@@ -68,7 +68,7 @@ Entra a github.com y logueate con tu usuario. Luego en la parte de arriba a la d
 
 ![alt](../img/repo-create.png)
 
-En la nueva pantalla, vas a tener que seleccionar el nombre de tu nuevo repo. Crea un repo que se llame: `repositorio-henry`. Podes agregarle una descripción también, pero no es obligatoria.
+En la nueva pantalla, vas a tener que seleccionar el nombre de tu nuevo repo. Crea un repo que se llame: `cd`. Podes agregarle una descripción también, pero no es obligatoria.
 
 ![alt](../img/create-repository-name.png)
 
